@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.pepe{
+    background-color: peru;
+    color: hotpink;
+}
+
+.pepe_guapo{
+    background-color: aquamarine;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+h2,h3,h4{
+  font-weight: bold;
+  font-style: normal;
+  letter-spacing: 0.5rem;
+  color: blue;
+}
